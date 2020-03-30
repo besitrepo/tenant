@@ -35,10 +35,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Torzer\\Awesome\\Landlord\\LandlordServiceProvider"
+                "BesitRepo\\Tenant\\LandlordServiceProvider"
             ],
             "aliases": {
-                "Landlord": "Torzer\\Awesome\\Landlord\\Facades\\Landlord"
+                "Tenant": "BesitRepo\\Tenant\\Facades\\Landlord"
             }
         }
     }

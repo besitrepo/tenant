@@ -29,16 +29,16 @@
     },
     "autoload": {
         "psr-4": {
-            "Torzer\\Awesome\\Landlord\\": "src/"
+            "Besitrepo\\Tenant\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "BesitRepo\\Tenant\\LandlordServiceProvider"
+                "Besitrepo\\Tenant\\LandlordServiceProvider"
             ],
             "aliases": {
-                "Tenant": "BesitRepo\\Tenant\\Facades\\Landlord"
+                "Tenant": "Besitrepo\\Tenant\\Facades\\Landlord"
             }
         }
     }

@@ -1,9 +1,9 @@
 <?php
 
-namespace besitrepo\Landlord;
+namespace BesitRepo\Landlord;
 
-use besitrepo\Landlord\Exceptions\TenantColumnUnknownException;
-use besitrepo\Landlord\Exceptions\TenantNullIdException;
+use BesitRepo\Landlord\Exceptions\TenantColumnUnknownException;
+use BesitRepo\Landlord\Exceptions\TenantNullIdException;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Collection;

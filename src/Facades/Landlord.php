@@ -1,11 +1,11 @@
 <?php
 
-namespace HipsterJazzbo\Landlord\Facades;
+namespace BesitRepo\Tenant\Facades;
 
-use HipsterJazzbo\Landlord\TenantManager;
+use BesitRepo\Tenant\TenantManager;
 use Illuminate\Support\Facades\Facade;
 
-class Landlord extends Facade
+class Tenant extends Facade
 {
     /**
      * Get the registered name of the component.

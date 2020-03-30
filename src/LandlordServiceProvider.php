@@ -1,6 +1,6 @@
 <?php
 
-namespace HipsterJazzbo\Landlord;
+namespace BesitRepo\Tenant;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -1,6 +1,6 @@
 {
-    "name": "ricardo-bruggemann/tenant",
-    "description": "A simple, single database multi-tenancy solution for Laravel 5.2+",
+    "name": "besitrepo/tenant",
+    "description": "Repositório",
     "license": "MIT",
     "keywords": [
         "tenant",

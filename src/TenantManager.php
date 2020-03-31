@@ -1,6 +1,6 @@
 <?php
 
-namespace BesitRepo\Landlord;
+namespace Besitrepo\Tenant;
 
 use Besitrepo\Tenant\Exceptions\TenantColumnUnknownException;
 use Besitrepo\Tenant\Exceptions\TenantNullIdException;

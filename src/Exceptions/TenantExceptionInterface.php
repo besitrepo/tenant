@@ -1,6 +1,6 @@
 <?php
 
-namespace BesitRepo\Tenant\Exceptions;
+namespace Besitrepo\Tenant\Exceptions;
 
 interface TenantExceptionInterface
 {

@@ -2,8 +2,8 @@
 
 namespace BesitRepo\Landlord;
 
-use BesitRepo\Landlord\Exceptions\TenantColumnUnknownException;
-use BesitRepo\Landlord\Exceptions\TenantNullIdException;
+use Besitrepo\Tenant\Exceptions\TenantColumnUnknownException;
+use Besitrepo\Tenant\Exceptions\TenantNullIdException;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Collection;

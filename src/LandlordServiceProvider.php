@@ -1,6 +1,6 @@
 <?php
 
-namespace BesitRepo\Tenant;
+namespace Besitrepo\Tenant;
 
 use Illuminate\Support\ServiceProvider;
 

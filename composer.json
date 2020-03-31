@@ -38,7 +38,7 @@
                 "Besitrepo\\Tenant\\LandlordServiceProvider"
             ],
             "aliases": {
-                "Tenant": "Besitrepo\\Tenant\\Facades\\Landlord"
+                "Tenant": "Besitrepo\\Tenant\\Facades\\Tenant"
             }
         }
     }

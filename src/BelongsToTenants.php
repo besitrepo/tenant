@@ -1,8 +1,8 @@
 <?php
 
-namespace BesitRepo\Tenant;
+namespace Besitrepo\Tenant;
 
-use BesitRepo\Tenant\Exceptions\ModelNotFoundForTenantException;
+use Besitrepo\Tenant\Exceptions\ModelNotFoundForTenantException;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 

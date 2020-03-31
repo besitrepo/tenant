@@ -1,8 +1,8 @@
 <?php
 
-namespace BesitRepo\Tenant\Facades;
+namespace Besitrepo\Tenant\Facades;
 
-use BesitRepo\Tenant\TenantManager;
+use Besitrepo\Tenant\TenantManager;
 use Illuminate\Support\Facades\Facade;
 
 class Tenant extends Facade
